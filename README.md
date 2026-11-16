@@ -2,8 +2,8 @@
 ## Event-Driven GUI Design (AWT, Swing & GUI-JDBC Integration)
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
+- **Name:** C.Sai Jashwanth Reddy
+- **Register Number:** 192472142
 - **Department:** Computer Science and Engineering
 
 ### Development Environment
@@ -66,5 +66,5 @@ java -cp . Task06.CampusEventApp
 - MySQL database schema for Task 6 is located at `Task06/schema.sql`.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** C.Sai Jashwanth Reddy
+**Register Number:** 192472142
